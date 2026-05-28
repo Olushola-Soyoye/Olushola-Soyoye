@@ -23,7 +23,7 @@ I partner with engineers, scientists, and business teams to apply statistical me
 
 ## Current Interests
 
-Over the past one year I have developed a strong interest in reliability engineering and its application to aerospace and defense products.
+Over the past several years, I have developed a strong interest in reliability engineering and its application to aerospace and defense products.
 
 Areas I continue to explore include:
 
