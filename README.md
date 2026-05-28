@@ -68,11 +68,10 @@ This GitHub profile is a place where I share:
 - DOE Demonstrations
 - Statistical Learning Resources
 - Bayesian Analysis Projects
-- Manufacturing Analytics
 - Educational Materials for Engineers and Statisticians
 
 ---
 
 ## Professional Interests
 
-Statistics | Reliability Engineering | Aerospace & Defense | Semiconductors | Manufacturing Excellence | Bayesian Methods | Quality Engineering | Continuous Improvement
+Statistics | Reliability Engineering | Aerospace & Defense | Semiconductors | Bayesian Methods | Quality Engineering | Continuous Improvement
