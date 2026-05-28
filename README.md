@@ -1,10 +1,11 @@
 # Hi, I'm Olushola Soyoye
 
-## Industrial Statistician | Reliability Engineering Enthusiast | Educator
+# Statistical Consultant | Reliability Engineering Enthusiast | Educator
 
-I am a Statistician at W. L. Gore & Associates, supporting teams across Aerospace & Defense, Electronics, Automotive, Semiconductor, and Industrial Filtration.
+I am a Statistician at W. L. Gore & Associates, supporting teams across Aerospace & Defense, Electronics, Automotive, Semiconductor, and Industrial Filtration
 
 I partner with engineers, scientists, and business teams to apply statistical methods that improve process understanding, strengthen validation efforts, enhance manufacturing performance, and support reliability-related decisions.
+
 ---
 
 ## Areas of Expertise
