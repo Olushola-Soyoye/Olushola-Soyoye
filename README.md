@@ -37,11 +37,13 @@ Areas I continue to explore include:
 ---
 
 ## Education
-
-Ph.D. in Educational Statistics  
+Ph.D. in Educational Statistics and Quantitative Methods
 University of Delaware
 
-My doctoral work included Bayesian methods, quantitative research methodology, and applied statistical modeling.
+M.S. in Mathematics
+University of Illinois Urbana-Champaign
+
+My academic training includes Bayesian methods, statistical modeling, quantitative research methodology, and mathematical foundations for statistical analysis.
 
 ---
 
