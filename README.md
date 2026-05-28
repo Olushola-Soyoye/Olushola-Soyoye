@@ -49,13 +49,12 @@ My academic training includes Bayesian methods, statistical modeling, quantitati
 
 ## Teaching
 
-I regularly teach statistical concepts to engineers, scientists, and associates, including:
+I teach statistical concepts to engineers, scientists, and associates, including:
 
 - Design of Experiments
 - Statistical Inference
-- SPC
+- EMP/MSA
 - Process Capability
-- Reliability Concepts
 - Data-Driven Decision Making
 
 ---
