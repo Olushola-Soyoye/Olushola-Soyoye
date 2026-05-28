@@ -2,10 +2,9 @@
 
 ## Industrial Statistician | Reliability Engineering Enthusiast | Educator
 
-I am an Industrial Statistician at W. L. Gore & Associates supporting teams across Aerospace & Defense, Electronics, Automotive, Semiconductor Technologies, and Industrial Filtration.
+I am a Statistician at W. L. Gore & Associates, supporting teams across Aerospace & Defense, Electronics, Automotive, Semiconductor, and Industrial Filtration.
 
-My work focuses on applying statistical thinking to product development, manufacturing, quality improvement, and reliability decision-making.
-
+I partner with engineers, scientists, and business teams to apply statistical methods that improve process understanding, strengthen validation efforts, enhance manufacturing performance, and support reliability-related decisions.
 ---
 
 ## Areas of Expertise
@@ -16,7 +15,6 @@ My work focuses on applying statistical thinking to product development, manufac
 - Process Capability Analysis
 - Process Validation
 - Reliability Engineering
-- Manufacturing Analytics
 - Bayesian Statistics
 - Statistical Education
 
