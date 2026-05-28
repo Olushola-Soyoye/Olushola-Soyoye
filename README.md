@@ -31,8 +31,11 @@ Areas I continue to explore include:
 - Accelerated life testing
 - Weibull analysis
 - Reliability growth modeling
+- Degradation modeling
+- Competing risks analysis
 - Failure analysis
 - Reliability modeling of electronic components and capacitors
+- Physics-informed approaches to reliability assessment
 
 ---
 
