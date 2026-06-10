@@ -15,15 +15,15 @@ I partner with engineers, scientists, and business teams to apply statistical me
 - Statistical Process Control (SPC)
 - Process Capability Analysis
 - Process Validation
-- Reliability Engineering
 - Bayesian Statistics
+- Reliability Statistics
 - Statistical Education
 
 ---
 
 ## Current Interests
 
-Over the past several years, I have developed a strong interest in reliability engineering and its application to aerospace and defense products.
+Over the past several years, I have developed a strong interest in reliability statistics and its application to aerospace and defense products.
 
 Areas I continue to explore include:
 
@@ -46,19 +46,18 @@ University of Delaware
 M.S. in Mathematics
 University of Illinois Urbana-Champaign
 
-My academic training includes Bayesian methods, statistical modeling, quantitative research methodology, and mathematical foundations for statistical analysis.
+Specializing in Bayesian methods, statistical modeling, experimental design, and quantitative research methodology.
 
 ---
 
 ## Teaching
 
-I teach statistical concepts to engineers, scientists, and associates, including:
+I provide training in applied statistics and quality engineering topics, including:
 
+- Introductory Statistics
 - Design of Experiments
-- Statistical Inference
-- EMP/MSA
+- MSA (EMP/Gage R&R)
 - Process Capability
-- Data-Driven Decision Making
 
 ---
 
@@ -66,9 +65,8 @@ I teach statistical concepts to engineers, scientists, and associates, including
 
 This GitHub profile is a place where I share:
 
-- Reliability Engineering Examples
-- DOE Demonstrations
 - Statistical Learning Resources
+- Reliability Statistics Examples
 - Bayesian Analysis Projects
 - Educational Materials for Engineers and Statisticians
 
@@ -76,4 +74,4 @@ This GitHub profile is a place where I share:
 
 ## Professional Interests
 
-Statistics | Reliability Engineering | Aerospace & Defense | Semiconductors | Bayesian Methods | Quality Engineering | Continuous Improvement
+Statistics | Reliability Statistics | Aerospace & Defense | Semiconductors | Bayesian Methods | Quality Engineering
